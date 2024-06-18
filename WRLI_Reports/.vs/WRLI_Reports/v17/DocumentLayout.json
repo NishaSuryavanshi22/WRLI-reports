@@ -1,0 +1,890 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|c:\\users\\nsuryavansh2\\onedrive - dxc production\\wrli_reports\\wrli_reports (changed),after assigned issued\\wrli_reports\\wrli_reports\\performancereport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\performancereport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|c:\\users\\nsuryavansh2\\onedrive - dxc production\\wrli_reports\\wrli_reports (changed),after assigned issued\\wrli_reports\\wrli_reports\\performancereport.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\performancereport.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\performancereport_allregion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\performancereport_allregion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\policyreport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\policyreport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\productreport_by_agent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\productreport_by_agent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\productreport_by_region.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\productreport_by_region.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\productreport_by_region.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\productreport_by_region.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\www.wrli.com-main\\www.wrli.com-main\\Agent\\ProductReport.asp||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\applicationsreceived.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\applicationsreceived.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\submittedcount.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\submittedcount.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\agentlicenselist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\agentlicenselist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\showstoppers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\showstoppers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\pendingrequirements.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\pendingrequirements.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\pendingrequirements.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\pendingrequirements.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\policyview.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\policyview.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\ratedbyregion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\ratedbyregion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\ratedforregion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\ratedforregion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\ratedforregion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\ratedforregion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\ratedforagent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\ratedforagent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\ratedforagent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\ratedforagent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\newcontracts.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\newcontracts.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\ratedbyregion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\ratedbyregion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\ratedbystate.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\ratedbystate.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\ratedbystate.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\ratedbystate.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\submittedbusiness.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\submittedbusiness.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\claimsbyregion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\claimsbyregion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\submittedcount.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\submittedcount.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\submittedbusiness.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\submittedbusiness.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\siureport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\siureport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\showstoppers.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\showstoppers.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\returnsbyregion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\returnsbyregion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\requirementbyregion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\requirementbyregion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\pending_policiesbyagent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\pending_policiesbyagent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\paidbusiness.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\paidbusiness.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\netpaid_terminated.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\netpaid_terminated.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\lapsesbyregion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\lapsesbyregion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\handlingtimereport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\handlingtimereport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\dailyaverages.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\dailyaverages.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\currentdatereport_averages.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\currentdatereport_averages.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\clientlist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\clientlist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\claimsforagent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\claimsforagent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\agentlist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\agentlist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\wrli_reports\\claimsforagent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6915AD9C-87A4-40FB-9A75-24FAE54600BE}|WRLI_Reports\\WRLI_Reports.csproj|solutionrelative:wrli_reports\\claimsforagent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\www.wrli.com-main\\www.wrli.com-main\\Agent\\showstoppers.asp||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\www.wrli.com-main\\www.wrli.com-main\\Agent\\uwreq_for_agent.asp||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\www.wrli.com-main\\www.wrli.com-main\\Agent\\uwreq_by_region.asp||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\www.wrli.com-main\\www.wrli.com-main\\Agent\\ProductReport_Agent.asp||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\www.wrli.com-main\\www.wrli.com-main\\Agent\\ProductReport_Agent.asp||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\www.wrli.com-main\\www.wrli.com-main\\Agent\\uwreq_for_agent.asp||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\www.wrli.com-main\\www.wrli.com-main\\Agent\\showstoppers.asp||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\www.wrli.com-main\\www.wrli.com-main\\Agent\\uwreq_by_region.asp||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\www.wrli.com-main\\www.wrli.com-main\\Agent\\uwreq_for_region.asp||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PerformanceReport.aspx",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\PerformanceReport.aspx",
+              "RelativeDocumentMoniker": "WRLI_Reports\\PerformanceReport.aspx",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\PerformanceReport.aspx",
+              "RelativeToolTip": "WRLI_Reports\\PerformanceReport.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-17T06:49:36.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PerformanceReport_AllRegion.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\PerformanceReport_AllRegion.aspx.cs",
+              "RelativeDocumentMoniker": "WRLI_Reports\\PerformanceReport_AllRegion.aspx.cs",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\PerformanceReport_AllRegion.aspx.cs",
+              "RelativeToolTip": "WRLI_Reports\\PerformanceReport_AllRegion.aspx.cs",
+              "ViewState": "AQIAAOoAAAAAAAAAAAAYwCQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:21:54.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PerformanceReport.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\PerformanceReport.aspx.cs",
+              "RelativeDocumentMoniker": "WRLI_Reports\\PerformanceReport.aspx.cs",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\PerformanceReport.aspx.cs",
+              "RelativeToolTip": "WRLI_Reports\\PerformanceReport.aspx.cs",
+              "ViewState": "AQIAAPwBAAAAAAAAAAAMwA4CAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:21:51.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductReport_By_Agent.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\ProductReport_By_Agent.aspx.cs",
+              "RelativeDocumentMoniker": "WRLI_Reports\\ProductReport_By_Agent.aspx.cs",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\ProductReport_By_Agent.aspx.cs",
+              "RelativeToolTip": "WRLI_Reports\\ProductReport_By_Agent.aspx.cs",
+              "ViewState": "AQIAAHwBAAAAAAAAAAAqwJYBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:22:24.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PolicyReport.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\PolicyReport.aspx.cs",
+              "RelativeDocumentMoniker": "WRLI_Reports\\PolicyReport.aspx.cs",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\PolicyReport.aspx.cs",
+              "RelativeToolTip": "WRLI_Reports\\PolicyReport.aspx.cs",
+              "ViewState": "AQIAAEACAAAAAAAAAABRwEMCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:21:59.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductReport_By_Region.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\ProductReport_By_Region.aspx.cs",
+              "RelativeDocumentMoniker": "WRLI_Reports\\ProductReport_By_Region.aspx.cs",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\ProductReport_By_Region.aspx.cs",
+              "RelativeToolTip": "WRLI_Reports\\ProductReport_By_Region.aspx.cs",
+              "ViewState": "AQIAAK0BAAAAAAAAAAAmwLwBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T13:29:04.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductReport_By_Region.aspx",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\ProductReport_By_Region.aspx",
+              "RelativeDocumentMoniker": "WRLI_Reports\\ProductReport_By_Region.aspx",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\ProductReport_By_Region.aspx",
+              "RelativeToolTip": "WRLI_Reports\\ProductReport_By_Region.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-14T13:32:33.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductReport.asp",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\www.wrli.com-main\\www.wrli.com-main\\Agent\\ProductReport.asp",
+              "RelativeDocumentMoniker": "..\\..\\www.wrli.com-main\\www.wrli.com-main\\Agent\\ProductReport.asp",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\www.wrli.com-main\\www.wrli.com-main\\Agent\\ProductReport.asp",
+              "RelativeToolTip": "..\\..\\www.wrli.com-main\\www.wrli.com-main\\Agent\\ProductReport.asp",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-04T07:17:58.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationsReceived.aspx",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\ApplicationsReceived.aspx",
+              "RelativeDocumentMoniker": "WRLI_Reports\\ApplicationsReceived.aspx",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\ApplicationsReceived.aspx",
+              "RelativeToolTip": "WRLI_Reports\\ApplicationsReceived.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-04T10:23:57.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ProductReport_Agent.asp",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\www.wrli.com-main\\www.wrli.com-main\\Agent\\ProductReport_Agent.asp",
+              "RelativeDocumentMoniker": "..\\..\\www.wrli.com-main\\www.wrli.com-main\\Agent\\ProductReport_Agent.asp",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\www.wrli.com-main\\www.wrli.com-main\\Agent\\ProductReport_Agent.asp",
+              "RelativeToolTip": "..\\..\\www.wrli.com-main\\www.wrli.com-main\\Agent\\ProductReport_Agent.asp",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-04T07:23:21.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "uwreq_for_agent.asp",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\www.wrli.com-main\\www.wrli.com-main\\Agent\\uwreq_for_agent.asp",
+              "RelativeDocumentMoniker": "..\\..\\www.wrli.com-main\\www.wrli.com-main\\Agent\\uwreq_for_agent.asp",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\www.wrli.com-main\\www.wrli.com-main\\Agent\\uwreq_for_agent.asp",
+              "RelativeToolTip": "..\\..\\www.wrli.com-main\\www.wrli.com-main\\Agent\\uwreq_for_agent.asp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-04T07:49:42.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "showstoppers.asp",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\www.wrli.com-main\\www.wrli.com-main\\Agent\\showstoppers.asp",
+              "RelativeDocumentMoniker": "..\\..\\www.wrli.com-main\\www.wrli.com-main\\Agent\\showstoppers.asp",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\www.wrli.com-main\\www.wrli.com-main\\Agent\\showstoppers.asp",
+              "RelativeToolTip": "..\\..\\www.wrli.com-main\\www.wrli.com-main\\Agent\\showstoppers.asp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-04T10:27:34.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "uwreq_by_region.asp",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\www.wrli.com-main\\www.wrli.com-main\\Agent\\uwreq_by_region.asp",
+              "RelativeDocumentMoniker": "..\\..\\www.wrli.com-main\\www.wrli.com-main\\Agent\\uwreq_by_region.asp",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\www.wrli.com-main\\www.wrli.com-main\\Agent\\uwreq_by_region.asp",
+              "RelativeToolTip": "..\\..\\www.wrli.com-main\\www.wrli.com-main\\Agent\\uwreq_by_region.asp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-04T07:48:58.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "uwreq_for_region.asp",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\www.wrli.com-main\\www.wrli.com-main\\Agent\\uwreq_for_region.asp",
+              "RelativeDocumentMoniker": "..\\..\\www.wrli.com-main\\www.wrli.com-main\\Agent\\uwreq_for_region.asp",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\www.wrli.com-main\\www.wrli.com-main\\Agent\\uwreq_for_region.asp",
+              "RelativeToolTip": "..\\..\\www.wrli.com-main\\www.wrli.com-main\\Agent\\uwreq_for_region.asp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-04T07:50:48.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ProductReport_Agent.asp",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\www.wrli.com-main\\www.wrli.com-main\\Agent\\ProductReport_Agent.asp",
+              "RelativeDocumentMoniker": "..\\..\\www.wrli.com-main\\www.wrli.com-main\\Agent\\ProductReport_Agent.asp",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\www.wrli.com-main\\www.wrli.com-main\\Agent\\ProductReport_Agent.asp",
+              "RelativeToolTip": "..\\..\\www.wrli.com-main\\www.wrli.com-main\\Agent\\ProductReport_Agent.asp",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-04T07:23:21.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "uwreq_for_agent.asp",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\www.wrli.com-main\\www.wrli.com-main\\Agent\\uwreq_for_agent.asp",
+              "RelativeDocumentMoniker": "..\\..\\www.wrli.com-main\\www.wrli.com-main\\Agent\\uwreq_for_agent.asp",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\www.wrli.com-main\\www.wrli.com-main\\Agent\\uwreq_for_agent.asp",
+              "RelativeToolTip": "..\\..\\www.wrli.com-main\\www.wrli.com-main\\Agent\\uwreq_for_agent.asp",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-04T07:49:42.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "showstoppers.asp",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\www.wrli.com-main\\www.wrli.com-main\\Agent\\showstoppers.asp",
+              "RelativeDocumentMoniker": "..\\..\\www.wrli.com-main\\www.wrli.com-main\\Agent\\showstoppers.asp",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\www.wrli.com-main\\www.wrli.com-main\\Agent\\showstoppers.asp",
+              "RelativeToolTip": "..\\..\\www.wrli.com-main\\www.wrli.com-main\\Agent\\showstoppers.asp",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-04T10:27:34.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "uwreq_by_region.asp",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\www.wrli.com-main\\www.wrli.com-main\\Agent\\uwreq_by_region.asp",
+              "RelativeDocumentMoniker": "..\\..\\www.wrli.com-main\\www.wrli.com-main\\Agent\\uwreq_by_region.asp",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\www.wrli.com-main\\www.wrli.com-main\\Agent\\uwreq_by_region.asp",
+              "RelativeToolTip": "..\\..\\www.wrli.com-main\\www.wrli.com-main\\Agent\\uwreq_by_region.asp",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-04T07:48:58.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SubmittedCount.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\SubmittedCount.aspx.cs",
+              "RelativeDocumentMoniker": "WRLI_Reports\\SubmittedCount.aspx.cs",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\SubmittedCount.aspx.cs",
+              "RelativeToolTip": "WRLI_Reports\\SubmittedCount.aspx.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAcwC8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:24:03.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AgentLicenseList.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\AgentLicenseList.aspx.cs",
+              "RelativeDocumentMoniker": "WRLI_Reports\\AgentLicenseList.aspx.cs",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\AgentLicenseList.aspx.cs",
+              "RelativeToolTip": "WRLI_Reports\\AgentLicenseList.aspx.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAiwJ8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:19:23.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShowStoppers.aspx",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\ShowStoppers.aspx",
+              "RelativeDocumentMoniker": "WRLI_Reports\\ShowStoppers.aspx",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\ShowStoppers.aspx",
+              "RelativeToolTip": "WRLI_Reports\\ShowStoppers.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-10T17:13:56.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PendingRequirements.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\PendingRequirements.aspx.cs",
+              "RelativeDocumentMoniker": "WRLI_Reports\\PendingRequirements.aspx.cs",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\PendingRequirements.aspx.cs",
+              "RelativeToolTip": "WRLI_Reports\\PendingRequirements.aspx.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAYwLQAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:21:45.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PolicyView.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\PolicyView.aspx.cs",
+              "RelativeDocumentMoniker": "WRLI_Reports\\PolicyView.aspx.cs",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\PolicyView.aspx.cs",
+              "RelativeToolTip": "WRLI_Reports\\PolicyView.aspx.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwCQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:51:56.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Ratedforagent.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\Ratedforagent.aspx.cs",
+              "RelativeDocumentMoniker": "WRLI_Reports\\Ratedforagent.aspx.cs",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\Ratedforagent.aspx.cs",
+              "RelativeToolTip": "WRLI_Reports\\Ratedforagent.aspx.cs",
+              "ViewState": "AQIAALcAAAAAAAAAAAAYwMIAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:16:47.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Ratedforregion.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\Ratedforregion.aspx.cs",
+              "RelativeDocumentMoniker": "WRLI_Reports\\Ratedforregion.aspx.cs",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\Ratedforregion.aspx.cs",
+              "RelativeToolTip": "WRLI_Reports\\Ratedforregion.aspx.cs",
+              "ViewState": "AQIAAOQAAAAAAAAAAAAlwPwAAAClAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:05:28.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PendingRequirements.aspx",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\PendingRequirements.aspx",
+              "RelativeDocumentMoniker": "WRLI_Reports\\PendingRequirements.aspx",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\PendingRequirements.aspx",
+              "RelativeToolTip": "WRLI_Reports\\PendingRequirements.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-03T18:03:22.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RatedByRegion.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\RatedByRegion.aspx.cs",
+              "RelativeDocumentMoniker": "WRLI_Reports\\RatedByRegion.aspx.cs",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\RatedByRegion.aspx.cs",
+              "RelativeToolTip": "WRLI_Reports\\RatedByRegion.aspx.cs",
+              "ViewState": "AQIAAGMBAAAAAAAAAAAMwF4BAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:39:58.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Ratedforagent.aspx",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\Ratedforagent.aspx",
+              "RelativeDocumentMoniker": "WRLI_Reports\\Ratedforagent.aspx",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\Ratedforagent.aspx",
+              "RelativeToolTip": "WRLI_Reports\\Ratedforagent.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-15T13:48:39.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Ratedforregion.aspx",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\Ratedforregion.aspx",
+              "RelativeDocumentMoniker": "WRLI_Reports\\Ratedforregion.aspx",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\Ratedforregion.aspx",
+              "RelativeToolTip": "WRLI_Reports\\Ratedforregion.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-14T18:01:10.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NewContracts.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\NewContracts.aspx.cs",
+              "RelativeDocumentMoniker": "WRLI_Reports\\NewContracts.aspx.cs",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\NewContracts.aspx.cs",
+              "RelativeToolTip": "WRLI_Reports\\NewContracts.aspx.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAwE4AAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:21:16.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RatedByRegion.aspx",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\RatedByRegion.aspx",
+              "RelativeDocumentMoniker": "WRLI_Reports\\RatedByRegion.aspx",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\RatedByRegion.aspx",
+              "RelativeToolTip": "WRLI_Reports\\RatedByRegion.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-15T10:15:28.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RatedByState.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\RatedByState.aspx.cs",
+              "RelativeDocumentMoniker": "WRLI_Reports\\RatedByState.aspx.cs",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\RatedByState.aspx.cs",
+              "RelativeToolTip": "WRLI_Reports\\RatedByState.aspx.cs",
+              "ViewState": "AQIAAFsBAAAAAAAAAAAgwF8BAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:22:52.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RatedByState.aspx",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\RatedByState.aspx",
+              "RelativeDocumentMoniker": "WRLI_Reports\\RatedByState.aspx",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\RatedByState.aspx",
+              "RelativeToolTip": "WRLI_Reports\\RatedByState.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-14T17:18:15.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SubmittedBusiness.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\SubmittedBusiness.aspx.cs",
+              "RelativeDocumentMoniker": "WRLI_Reports\\SubmittedBusiness.aspx.cs",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\SubmittedBusiness.aspx.cs",
+              "RelativeToolTip": "WRLI_Reports\\SubmittedBusiness.aspx.cs",
+              "ViewState": "AQIAAMgAAAAAAAAAAAAUwO0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:23:54.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ClaimsByRegion.aspx",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\ClaimsByRegion.aspx",
+              "RelativeDocumentMoniker": "WRLI_Reports\\ClaimsByRegion.aspx",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\ClaimsByRegion.aspx",
+              "RelativeToolTip": "WRLI_Reports\\ClaimsByRegion.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-14T10:17:08.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SubmittedCount.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\SubmittedCount.aspx.designer.cs",
+              "RelativeDocumentMoniker": "WRLI_Reports\\SubmittedCount.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\SubmittedCount.aspx.designer.cs",
+              "RelativeToolTip": "WRLI_Reports\\SubmittedCount.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:24:02.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SubmittedBusiness.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\SubmittedBusiness.aspx.designer.cs",
+              "RelativeDocumentMoniker": "WRLI_Reports\\SubmittedBusiness.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\SubmittedBusiness.aspx.designer.cs",
+              "RelativeToolTip": "WRLI_Reports\\SubmittedBusiness.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:23:52.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SIUReport.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\SIUReport.aspx.cs",
+              "RelativeDocumentMoniker": "WRLI_Reports\\SIUReport.aspx.cs",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\SIUReport.aspx.cs",
+              "RelativeToolTip": "WRLI_Reports\\SIUReport.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:23:45.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ShowStoppers.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\ShowStoppers.aspx.cs",
+              "RelativeDocumentMoniker": "WRLI_Reports\\ShowStoppers.aspx.cs",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\ShowStoppers.aspx.cs",
+              "RelativeToolTip": "WRLI_Reports\\ShowStoppers.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:23:35.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ReturnsByRegion.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\ReturnsByRegion.aspx.cs",
+              "RelativeDocumentMoniker": "WRLI_Reports\\ReturnsByRegion.aspx.cs",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\ReturnsByRegion.aspx.cs",
+              "RelativeToolTip": "WRLI_Reports\\ReturnsByRegion.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:23:26.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RequirementByRegion.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\RequirementByRegion.aspx.cs",
+              "RelativeDocumentMoniker": "WRLI_Reports\\RequirementByRegion.aspx.cs",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\RequirementByRegion.aspx.cs",
+              "RelativeToolTip": "WRLI_Reports\\RequirementByRegion.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:23:15.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Pending_PoliciesByAgent.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\Pending_PoliciesByAgent.aspx.cs",
+              "RelativeDocumentMoniker": "WRLI_Reports\\Pending_PoliciesByAgent.aspx.cs",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\Pending_PoliciesByAgent.aspx.cs",
+              "RelativeToolTip": "WRLI_Reports\\Pending_PoliciesByAgent.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:21:36.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PaidBusiness.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\PaidBusiness.aspx.cs",
+              "RelativeDocumentMoniker": "WRLI_Reports\\PaidBusiness.aspx.cs",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\PaidBusiness.aspx.cs",
+              "RelativeToolTip": "WRLI_Reports\\PaidBusiness.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:21:25.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "NetPaid_Terminated.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\NetPaid_Terminated.aspx.cs",
+              "RelativeDocumentMoniker": "WRLI_Reports\\NetPaid_Terminated.aspx.cs",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\NetPaid_Terminated.aspx.cs",
+              "RelativeToolTip": "WRLI_Reports\\NetPaid_Terminated.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:21:09.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LapsesByRegion.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\LapsesByRegion.aspx.cs",
+              "RelativeDocumentMoniker": "WRLI_Reports\\LapsesByRegion.aspx.cs",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\LapsesByRegion.aspx.cs",
+              "RelativeToolTip": "WRLI_Reports\\LapsesByRegion.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:21:02.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "HandlingTimeReport.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\HandlingTimeReport.aspx.cs",
+              "RelativeDocumentMoniker": "WRLI_Reports\\HandlingTimeReport.aspx.cs",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\HandlingTimeReport.aspx.cs",
+              "RelativeToolTip": "WRLI_Reports\\HandlingTimeReport.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:20:35.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DailyAverages.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\DailyAverages.aspx.cs",
+              "RelativeDocumentMoniker": "WRLI_Reports\\DailyAverages.aspx.cs",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\DailyAverages.aspx.cs",
+              "RelativeToolTip": "WRLI_Reports\\DailyAverages.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:20:24.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CurrentDateReport_Averages.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\CurrentDateReport_Averages.aspx.cs",
+              "RelativeDocumentMoniker": "WRLI_Reports\\CurrentDateReport_Averages.aspx.cs",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\CurrentDateReport_Averages.aspx.cs",
+              "RelativeToolTip": "WRLI_Reports\\CurrentDateReport_Averages.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:20:15.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ClientList.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\ClientList.aspx.cs",
+              "RelativeDocumentMoniker": "WRLI_Reports\\ClientList.aspx.cs",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\ClientList.aspx.cs",
+              "RelativeToolTip": "WRLI_Reports\\ClientList.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:20:06.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AgentList.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\AgentList.aspx.cs",
+              "RelativeDocumentMoniker": "WRLI_Reports\\AgentList.aspx.cs",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\AgentList.aspx.cs",
+              "RelativeToolTip": "WRLI_Reports\\AgentList.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:19:33.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Claimsforagent.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\Claimsforagent.aspx.cs",
+              "RelativeDocumentMoniker": "WRLI_Reports\\Claimsforagent.aspx.cs",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\Claimsforagent.aspx.cs",
+              "RelativeToolTip": "WRLI_Reports\\Claimsforagent.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:32:53.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Claimsforagent.aspx",
+              "DocumentMoniker": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\Claimsforagent.aspx",
+              "RelativeDocumentMoniker": "WRLI_Reports\\Claimsforagent.aspx",
+              "ToolTip": "C:\\Users\\nsuryavansh2\\OneDrive - DXC Production\\WRLI_Reports\\WRLI_Reports (changed),after assigned issued\\WRLI_Reports\\WRLI_Reports\\Claimsforagent.aspx",
+              "RelativeToolTip": "WRLI_Reports\\Claimsforagent.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-14T10:05:25.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
